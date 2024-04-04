@@ -10,7 +10,7 @@ export function Home() {
     <Fragment>
       <Welcome>
         <Logo $image={logo} />
-        <p>Faço suas melhores recordações!!!</p>
+        <p>Fazemos suas melhores recordações!!!</p>
       </Welcome>
       <Banner />
       <Footer />
